@@ -1,0 +1,16 @@
+Single page application "Excel"
+    -Webpack (imports/exports):
+        Babel: transpiler
+        Scss
+        Eslint
+        2 Modes:
+            -Dev mode:
+                Dev server, SourceMaps, Eslint, Not minified JS & CSS
+            -Prod mode:
+                Minified Code
+
+    -Git:
+        Productions:
+            -1.0.0
+        Development:
+            -1.0.2
